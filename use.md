@@ -1,10 +1,10 @@
 ---
 layout: default
-title: How to use TermGet
+title: Usage
 nav_order: 8
 ---
 
-# How to use TermGet
+# Usage
 
 This section gets updated with every release, if you are using an alpha or beta build, there might be extra features that aren't in this section of the docs.
 
