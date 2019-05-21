@@ -1,10 +1,10 @@
 ---
 layout: default
-title: First Time Setup On Linux, BSD, ChromeOS, and macOS
+title: First Time Setup
 nav_order: 7
 ---
 
-# First Time Setup On Linux, BSD, ChromeOS, and macOS.
+# First Time Setup
 
 After installing, run TermGet using:
 
