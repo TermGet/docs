@@ -35,7 +35,7 @@ TermGet is a package manager frontend for Linux, BSD macOS, and ChromeOS.
  - Great for introducing package management to new users
  - Code is easy to modify.
 
-### TermGet is developed by these fine people:
+### TermGet is developed by these fine developers:
 
  - [PizzaLovingNerd](https://github.com/pizzalovingnerd)
  - [Emil Engler](https://github.com/emilengler)
