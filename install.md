@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Install TermGet on Linux, BSD, and macOS
+title: Install on Linux, BSD, and macOS
 nav_order: 5
 ---
 
-# Install TermGet on Linux, BSD, and macOS
+# Install on Linux, BSD, and macOS
 
 ### Installing Python3
 
