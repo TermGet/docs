@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Install TermGet on ChromeOS
+title: Install on ChromeOS
 nav_order: 6
 ---
 
-# Install TermGet on ChromeOS
+# Install on ChromeOS
 
 ### Warning: TermGet on ChromeOS is not officially supported. TermGet on ChromeOS is also super buggy.
 
