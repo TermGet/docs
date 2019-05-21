@@ -1,0 +1,7 @@
+title: TermGet Docs
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+aux_links:
+  "Download TermGet (latest)":
+    - "//github.com/termget/termget/releases/latest"
