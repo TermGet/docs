@@ -1,4 +1,5 @@
 # Introduction
+
 ### What is TermGet?
 TermGet is a package manager frontend for Linux, BSD macOS, and ChromeOS.
 
@@ -25,7 +26,9 @@ TermGet is a package manager frontend for Linux, BSD macOS, and ChromeOS.
  - yum
  - zypper
 
-### What are some of it's features
+It's like a software center in your terminal!
+
+### Features
 
  - Simple, easy to use interface
  - Works in the command line
@@ -42,3 +45,7 @@ TermGet is a package manager frontend for Linux, BSD macOS, and ChromeOS.
  - [Quint Burkley](https://github.com/qwow5)
  - [NekoBit](https://github.com/nekobit1)
  - [TechBizmo](https://github.com/techbizmo)
+
+### Links
+
+ - [Website](https://termget.github.io)
