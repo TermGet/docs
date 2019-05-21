@@ -8,7 +8,7 @@ nav_order: 7
 
 After installing, run TermGet using:
 
-    termget
+    sudo termget
 
 If you installed TermGet without detection of the package manager, or package manager detection didn't work, you should get a message that sort of looks like this:
 
