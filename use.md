@@ -10,7 +10,7 @@ This section gets updated with every release, if you are using an alpha or beta 
 
 TermGet is really easy to use. To run it, all you have to do is open a terminal, and type:
 
-    termget
+    sudo termget
 
 
 Just select using the number (for example if my package manager was apt-get, I would type the number 1, and press enter).
