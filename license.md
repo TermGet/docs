@@ -4,6 +4,8 @@ title: License
 nav_order: 2
 ---
 
+# License
+
 ### GNU LESSER GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007
