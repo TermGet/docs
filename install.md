@@ -38,7 +38,7 @@ If you are on macOS, you need to install Homebrew. To install it, open a termina
 
 We are now ready to install TermGet!
 
-Download the latest stable version of TermGet from the [download page](download.html).
+Download the latest stable version of TermGet from the [download page](download.html) or by clicking `Download TermGet (stable)` in the top right corner.
 
 Extract TermGet on your system and open a terminal window.
 
