@@ -50,3 +50,4 @@ It's like a software center in your terminal!
 ### Links
 
  - [Website](https://termget.github.io)
+ - [GitHub](https://github.com/termget)
