@@ -18,7 +18,7 @@ If it is installed, continue to the next step.
 
 If Python 3 is not installed, follow the instructions [here](https://wsvincent.com/install-python3-chromebook/) to install it.
 
-Once you have installed python, we need to install Chromebrew. To install it, type:
+Once you have installed Python 3, we need to install Chromebrew. To install it, type:
 
     wget -q -O - https://raw.github.com/skycocker/chromebrew/master/install.sh | bash
 
