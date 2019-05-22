@@ -6,6 +6,11 @@ nav_order: 3
 
 # Changelog
 
+### TermGet 3.0.3
+
+- Fixed Pacman Bug (With interface)
+- Fixed Snaps
+
 ### TermGet 3.0.2
 
 - Fixed Flatpak support
