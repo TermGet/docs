@@ -33,7 +33,7 @@ Once your package manager has been chosen, you will get a message like this:
 
 Search, searches for packages.
 
-If are using TermGet 3.0, it will ask "Did you find what you were looking for?". If you type y (For yes), then it asks you for the package to install (just in case the package you were looking for had a slightly different name then you thought). Once you type the name of the package it will install the package.
+If are using TermGet 3.0, it will ask "Did you find what you were looking for?". If you type `y` (For yes), then it asks you for the package to install (just in case the package you were looking for had a slightly different name then you thought). Once you type the name of the package it will install the package.
 
 ### Installing a package
 
