@@ -14,6 +14,6 @@ To Temporarily change the package manager used, use an argument. For example, to
 
 ### Permanently (On Linux, BSD, and macOS)
 
-Run the following command in a terminal (as root), then the first setup script will start next time you run termget.
+Run the following command in a terminal window, then the first setup script will start next time you run termget.
 
-    rm /usr/local/share/termget/termget-package-manager && > /usr/local/share/termget/termget-package-manager
+    su -c rm /usr/local/share/termget/termget-package-manager && > /usr/local/share/termget/termget-package-manager
