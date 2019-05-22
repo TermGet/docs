@@ -8,20 +8,18 @@ nav_order: 5
 
 ### Installing Python3
 
-To install TermGet, we need to install Python 3. To check if it's already installed, type:
+To install TermGet, we need to install Python 3. Most Linux distributions come with Python 3 out of box. To check if it's already installed, open a terminal window and type:
 
     python3 --version
 
-Install off your operating system's respository.
+If it is not installed, install it off your operating system's respository. The package is most likely named `python3`.
 If you are on macOS, install it from Homebrew with `brew install python3` (See `macOS Dependencies` below).
 
-After you install Python 3, download TermGet.
-
-Before you run the install TermGet there are some OS specific dependencies.
+Some operating systems require specific dependencies that need to be installed before TermGet is installed. If your OS is not listed below, skip this step.
 
 ### Arch Linux Dependencies
 
-If you are on Arch Linux, you need to install yay in order to use the AUR. To do this, open a terminal and type:
+If you are on Arch Linux, you need to install yay in order to use the AUR. To install it, open a terminal window and type:
 
     sudo pacman -S git
     git clone https://aur.archlinux.org/yay.git
@@ -31,27 +29,27 @@ If you are on Arch Linux, you need to install yay in order to use the AUR. To do
 
 ### macOS Dependencies
 
-If you are on macOS, you need to install Homebrew. To do this open a terminal and type:
+If you are on macOS, you need to install Homebrew. To install it, open a terminal window and type:
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 
 ### Downloading and Installing TermGet
 
-Now we need to download TermGet
+We are now ready to install TermGet!
 
-Go to the [download page](download.html) for TermGet and download it.
+Download the latest stable version of TermGet from the [download page](download.html).
 
-Extract TermGet somewhere and open a terminal window.
+Extract TermGet on your system and open a terminal window.
 
-Now set your current directory in the terminal to the extracted TermGet folder, (example: ```cd ~/Downloads/TermGet-2.1.3```)
+Now set your current directory in the terminal window to the extracted TermGet folder, (e.g. ```cd ~/Downloads/TermGet-2.1.3```).
 
 Now type:
 
     ./install.sh
 
-If you want to run the install script without detection of the package manager, there is a mode for that:
+If you would prefer to run the installation script without detection of the package manager, add the `--no-detection` flag:
 
     ./install.sh --no-detection
 
-The above command can be used if the package file already exists from an older build of TermGet. It can also be used if you want TermGet to directly ask you what package manager you would want to use.
+The above command can be used if the package file already exists from an older build of TermGet. It can also be used if you want TermGet to directly ask you what package manager you would want to use or if you are going to use TermGet with a third-party package manager, such as npm.
