@@ -38,4 +38,6 @@ If you would prefer to run the installation script without detection of the pack
 
     bash install.sh --no-detection
 
+The above command can be used if the package file already exists from an older build of TermGet. It can also be used if you want TermGet to directly ask you what package manager you would want to use or if you are going to use TermGet with a third-party package manager, such as npm.
+
 TermGet will now install. Please report any errors to the [GitHub Issues](https://github.com/termget/termget/issues).
