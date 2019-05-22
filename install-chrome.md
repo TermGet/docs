@@ -10,28 +10,32 @@ nav_order: 6
 
 First put your Chromebook in [developer mode](https://www.howtogeek.com/210817/how-to-enable-developer-mode-on-your-chromebook/ "developer mode").
 
-Now, Open Crosh, and type ```shell```. Check if Python3 is already installed on your system. Do so by typing
+Now, Open Crosh (`CTRL + ALT + T`), and type ```shell```. Check if Python 3 is already installed on your system by typing:
 
     python3 --version
 
-If it is your good to go to the next step.
+If it is installed, continue to the next step.
 
-If not, then [watch this video](https://youtu.be/X7Y8b2S3nEA)
+If Python 3 is not installed, follow the instructions [here](https://wsvincent.com/install-python3-chromebook/) to install it.
 
-If you would rather read instead of a video, [click here](https://wsvincent.com/install-python3-chromebook/)
-
-Once you have installed python, we need to install Chromebrew. To do this type:
+Once you have installed python, we need to install Chromebrew. To install it, type:
 
     wget -q -O - https://raw.github.com/skycocker/chromebrew/master/install.sh | bash
 
-    -- or --
+We are now ready to install TermGet!
 
-    curl -Ls git.io/vddgY | bash
+Download the latest stable version of TermGet from the [download page](download.html) or by clicking `Download TermGet (stable)` in the top right corner.
 
-Now download TermGet and cd into it, then run
+Extract TermGet on your system and go back to crosh.
+
+Now set your current directory in crosh to the extracted TermGet folder, (e.g. ```cd ~/Downloads/TermGet-x.x.x```).
+
+To install, type:
 
     bash install.sh
 
-and it will install, if you get errors report it to the github issues.
+If you would prefer to run the installation script without detection of the package manager, add the `--no-detection` flag:
 
-That's it, type "termget" into the prompt and you should be good.
+    bash install.sh --no-detection
+
+TermGet will now install. Please report any errors to the [GitHub Issues](https://github.com/termget/termget/issues).
