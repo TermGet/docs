@@ -10,7 +10,7 @@ nav_order: 6
 
 First put your Chromebook in [developer mode](https://www.howtogeek.com/210817/how-to-enable-developer-mode-on-your-chromebook/ "developer mode").
 
-Now, Open Crosh (`CTRL + ALT + T`), and type ```shell```. Check if Python 3 is already installed on your system by typing:
+Now, open Crosh (`CTRL + ALT + T`), and type ```shell```. Check if Python 3 is already installed on your system by typing:
 
     python3 --version
 
@@ -26,9 +26,9 @@ We are now ready to install TermGet!
 
 Download the latest stable version of TermGet from the [download page](download.html) or by clicking `Download TermGet (stable)` in the top right corner.
 
-Extract TermGet on your system and go back to crosh.
+Extract TermGet on your system and go back to Crosh.
 
-Now set your current directory in crosh to the extracted TermGet folder, (e.g. ```cd ~/Downloads/TermGet-x.x.x```).
+Now set your current directory in Crosh to the extracted TermGet folder, (e.g. ```cd ~/Downloads/TermGet-x.x.x```).
 
 To install, type:
 
