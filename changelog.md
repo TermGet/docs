@@ -6,6 +6,15 @@ nav_order: 3
 
 # Changelog
 
+### TermGet 3.1
+- Added apt support
+- Removed apt-get support
+- Added yum to the package manager detection list in the installer
+- Updated Readme
+- Major revamp to [documentation](https://termget.github.io/docs/) and [website](https://termget.github.io)
+- Fixed various grammar errors
+- Bug Fixes
+
 ### TermGet 3.0.3
 
 - Fixed Pacman Bug (With interface)
@@ -99,7 +108,7 @@ nav_order: 3
 ### TermGet 1.0.0
 
 - First version of TermGet :)
-- Added apt
+- Added apt-get
 - Added xbps
 - Added pacman
 - Added dnf
