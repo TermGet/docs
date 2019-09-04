@@ -14,7 +14,7 @@ If you installed TermGet without detection of the package manager, or package ma
 
     Please choose a package manager:
     
-    1. apt-get (For Debian, and Debian based systems.)"
+    1. apt (For Debian, and Debian based systems.)"
     2. dnf (For Fedora, and Fedora based systems.)"
     3. yum (For RHEL, CentOS, older versions of Fedora, and systems based on these distros.)"
     4. pacman (For Arch, PacBSD, and systems based on these distros.)"
