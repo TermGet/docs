@@ -8,9 +8,9 @@ nav_order: 9
 
 ### Temporarily (On Linux, BSD, and macOS.)
 
-To Temporarily change the package manager used, use an argument. For example, to temporally change the package manager to apt-get, you would type:
+To Temporarily change the package manager used, use an argument. For example, to temporally change the package manager to apt, you would type:
 
-    sudo termget apt-get
+    sudo termget apt
 
 ### Permanently (On Linux, BSD, and macOS)
 
