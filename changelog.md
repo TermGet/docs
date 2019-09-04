@@ -6,7 +6,13 @@ nav_order: 3
 
 # Changelog
 
+### TermGet 3.1.1
+
+- Remove apt-get from docs, website, and Readme
+- Minor grammar and bug fixes
+
 ### TermGet 3.1
+
 - Added apt support
 - Removed apt-get support
 - Added yum to the package manager detection list in the installer
