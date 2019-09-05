@@ -6,6 +6,10 @@ nav_order: 3
 
 # Changelog
 
+### TermGet 3.1.2
+- Updated version information
+- More grammar fixes
+
 ### TermGet 3.1.1
 
 - Remove apt-get from docs, website, and Readme
