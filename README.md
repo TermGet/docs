@@ -1,7 +1,7 @@
 # Introduction
 
 ### What is TermGet?
-TermGet is a package manager frontend for any Linux, BSD, macOS, or ChromeOS distribution (Windows coming soon).
+TermGet is a package manager frontend for any Linux, BSD, macOS, or ChromeOS distribution.
 
 ### TermGet is a frontend for:
 
@@ -52,3 +52,4 @@ It's like a software center in your terminal!
 
  - [Website](https://termget.github.io)
  - [GitHub](https://github.com/termget)
+ - [Discord](https://discord.gg/fCvMGcU)
